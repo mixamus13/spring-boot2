@@ -1,4 +1,4 @@
-package com.example.springboot.interfaces;
+package com.example.springboot.autowired;
 
 import org.springframework.stereotype.Component;
 

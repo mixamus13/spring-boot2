@@ -1,6 +1,5 @@
-package com.example.springboot.domain;
+package com.example.springboot.autowired;
 
-import com.example.springboot.interfaces.Price;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Component;
 
